@@ -3,7 +3,7 @@
 ## Papers
 [Evaluating-correctness-of-AIGC.pdf](https://github.com/honghulu/Evaluate-correctness-of-AIGC/files/13899300/Evaluating-correctness-of-AIGC.pdf)
 
-## Summary
+## Overview
 ![00](https://github.com/honghulu/Evaluate-correctness-of-AIGC/assets/135955524/1e0ef7ba-97e5-4b99-bf71-314f06b5a8da)
 
 ![01](https://github.com/honghulu/Evaluate-correctness-of-AIGC/assets/135955524/52396598-6a4b-4c12-af3a-fd32f81c88e8)
